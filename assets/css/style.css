@@ -1,6 +1,7 @@
 
 #home-news{
-  font-size: 2em;
+  /*font-size: 2em;*/
+        font-size:4vh;
 	text-align:center;
 	text-transform:uppercase;
 	color:#464646;
