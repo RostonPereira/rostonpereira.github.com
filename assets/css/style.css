@@ -1,0 +1,81 @@
+.cvbutton {
+    background-color: rgba(63, 81, 181, 0.8);
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 40%;
+}
+.cvbutton:hover {
+    background-color: rgba(38, 166, 154, 0.5);
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+#home-news {
+    /*font-size: 2em;*/
+    font-size: 4vh;
+    text-align: center;
+    text-transform: uppercase;
+    color: #464646;
+    height: 45px;
+    line-height: 45px;
+    overflow: hidden;
+    position: relative;
+}
+.home_header {
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+    color: #888;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+.home_header_on {
+    z-index: 100;
+}
+.home_header strong {
+    color: #fff;
+}
+.home_header span, .home_header strong {
+    position: relative;
+    top: -50px;
+}
+.home_header_on *:nth-child(1) {
+    top: 0;
+    -webkit-transition: top .6s ease-in-out;
+    -moz-transition: top .6s ease-in-out;
+    transition: top .6s ease-in-out;
+}
+.home_header_on *:nth-child(2) {
+    top: 0;
+    -webkit-transition: top .6s ease-in-out .15s;
+    -moz-transition: top .6s ease-in-out .15s;
+    transition: top .6s ease-in-out .15s;
+}
+.home_header_on *:nth-child(3) {
+    top: 0;
+    -webkit-transition: top .6s ease-in-out .3s;
+    -moz-transition: top .6s ease-in-out .3s;
+    transition: top .6s ease-in-out .3s;
+}
+.home_header_out *:nth-child(1) {
+    top: 50px;
+    -webkit-transition: top .6s ease-in-out;
+    -webkit-transition: top .6s ease-in-out;
+    -moz-transition: top .6s ease-in-out;
+}
+.home_header_out *:nth-child(2) {
+    top: 50px;
+    -webkit-transition: top .6s ease-in-out .15s;
+    -moz-transition: top .6s ease-in-out .15s;
+    transition: top .6s ease-in-out .15s;
+}
+.home_header_out *:nth-child(3) {
+    top: 50px;
+    -webkit-transition: top .6s ease-in-out .3s;
+    -moz-transition: top .6s ease-in-out .3s;
+    transition: top .6s ease-in-out .3s;
+}
