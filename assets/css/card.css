@@ -146,7 +146,7 @@ body {
 }
 .cont .column {
     width: 100%;
-    padding: 0 100px 50px 100px;
+    /*padding: 0 100px 50px 100px;*/
     -webkti-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
