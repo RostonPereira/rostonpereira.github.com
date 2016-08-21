@@ -1,0 +1,99 @@
+.shadow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: inherit;
+}
+.shadow-bottom-z-3 {
+    box-shadow: 0 13px 25px 0 rgba(0, 0, 0, 0.3);
+}
+.shadow-top-z-3 {
+    box-shadow: 0 11px 7px 0 rgba(0, 0, 0, 0.19);
+}
+
+.artificial {
+    height: 300px;
+    width: 100%;
+    font-weight: 300;
+    color: black;
+    float: left;
+    display: inline-block;
+    border-radius: 2px;
+    padding: 16px;
+    position: relative;
+    margin: 0 10px 20px 0px;
+    background-color: white;
+    text-align: left;
+}
+.cloudtechnologies {
+    height: 300px;
+    width: 100%;
+    /*font-weight: 700;*/
+    color: black;
+    float: left;
+    display: inline-block;
+    border-radius: 2px;
+    padding: 16px;
+    position: relative;
+    margin: 0 10px 20px 0px;
+    background-color: white;
+    text-align: left;
+}
+.database {
+    height: 300px;
+    width: 100%;
+    /*font-weight: 700;*/
+    color: black;
+    float: left;
+    display: inline-block;
+    border-radius: 2px;
+    padding: 16px;
+    position: relative;
+    margin: 0 10px 20px 0px;
+    background-color: white;
+    text-align: left;
+}
+.language {
+    height: 450px;
+    width: 100%;
+    /*font-weight: 700;*/
+    color: black;
+    float: left;
+    display: inline-block;
+    border-radius: 2px;
+    padding: 16px;
+    position: relative;
+    margin: 0 10px 20px 0px;
+    background-color: white;
+    text-align: left;
+}
+.libraries {
+    height: 450px;
+    width: 100%;
+    /*font-weight: 700;*/
+    color: black;
+    float: left;
+    display: inline-block;
+    border-radius: 2px;
+    padding: 16px;
+    position: relative;
+    margin: 0 10px 20px 0px;
+    background-color: white;
+    text-align: left;
+}
+.operatingsystem {
+    height: 450px;
+    width: 100%;
+    /*font-weight: 700;*/
+    color: black;
+    float: left;
+    display: inline-block;
+    border-radius: 2px;
+    padding: 16px;
+    position: relative;
+    margin: 0 10px 20px 0px;
+    background-color: white;
+    text-align: left;
+}
