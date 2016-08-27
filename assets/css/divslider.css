@@ -25,10 +25,11 @@
     font-weight: bold;
 }
 .aligncontentcenter {
-	float: left;
+    float: left;
     color: white;
     padding: 5px;
     text-align: justify;
+    line-height: 120%;
 }
 
 #mask {
