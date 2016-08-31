@@ -163,7 +163,7 @@ a#openPopUpInfo:hover {
         padding: 0 1em 0 1em;
     }
     .popupInfo:target .popUpContainerInfo {
-        top: -60px;
+        top: -80px;
         -webkit-transition: top 0.35s ease;
         -moz-transition: top 0.35s ease;
         -o-transition: top 0.35s ease;
