@@ -7,6 +7,21 @@ u {
 
 }
 
+.technologies {
+    text-align: left;
+    padding: 30px;
+}
+.summarycontent {
+    text-align: left;
+    padding: 5px;
+    text-align: justify;
+}
+.summarycontentparagraph {
+    text-align: left;
+    padding: 20px 5px 5px 5px;
+    text-align: justify;
+}
+
 #video-up-tainer {
     display: none;
     position: fixed;
