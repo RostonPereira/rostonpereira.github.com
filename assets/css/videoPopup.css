@@ -184,3 +184,19 @@ u {
     }
 
 /* CSS  for Millionaire images ends */
+
+
+
+/* CSS  for MCQ images starts */
+
+.mcqmacbook{
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cloud.githubusercontent.com/assets/18673805/18429703/8610cf5a-78f2-11e6-8307-2dfbf176600c.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*border: 1px solid red;*/
+}
+
+/* CSS  for MCQ images ends */
+
