@@ -200,3 +200,18 @@ u {
 
 /* CSS  for MCQ images ends */
 
+
+
+/* CSS  for Analytics Dashboard images starts */
+
+.analyticsmacbook{
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cloud.githubusercontent.com/assets/18673805/18435273/d43a4b80-790f-11e6-9485-36699d03ac5e.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*border: 1px solid red;*/
+}
+
+/* CSS  for Analytics Dashboard  images ends */
+
