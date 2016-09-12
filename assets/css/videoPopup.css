@@ -88,3 +88,22 @@ u {
 #video-up-ose:hover {
     color: black;
 }
+
+.portfolioiphone {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cloud.githubusercontent.com/assets/18673805/18427407/68a8356e-78e5-11e6-84c9-fb2e1be130ff.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*border: 1px solid red;*/
+}
+
+.portfoliomacbook {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cloud.githubusercontent.com/assets/18673805/18427535/6770b06c-78e6-11e6-8511-b830cc0db8e8.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*border: 1px solid red;*/
+}
+
