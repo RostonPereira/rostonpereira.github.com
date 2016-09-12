@@ -107,3 +107,20 @@ u {
     /*border: 1px solid red;*/
 }
 
+.rnmiphone{
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cloud.githubusercontent.com/assets/18673805/18409129/2b6908f0-775e-11e6-9a94-4d016eeec44f.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*border: 1px solid red;*/
+}
+
+.rnmmacbook{
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cloud.githubusercontent.com/assets/18673805/18409126/235424ba-775e-11e6-8252-21e732d5c0ae.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*border: 1px solid red;*/
+}
