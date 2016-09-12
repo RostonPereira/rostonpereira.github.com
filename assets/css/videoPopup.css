@@ -161,3 +161,26 @@ u {
 }
 
 /* CSS  for DWM images ends */
+
+
+/* CSS  for Millionaire images starts */
+
+    .millionaireiphone1{
+        width: 100%;
+        height: 400px;
+        background-image: url('https://cloud.githubusercontent.com/assets/18673805/18409149/6b3b6dc4-775e-11e6-9e10-d37866f95598.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        /*border: 1px solid red;*/
+    }
+
+    .millionaireiphone2{
+        width: 100%;
+        height: 400px;
+        background-image: url('https://cloud.githubusercontent.com/assets/18673805/18409153/74239f88-775e-11e6-9574-1f66256e116b.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        /*border: 1px solid red;*/
+    }
+
+/* CSS  for Millionaire images ends */
