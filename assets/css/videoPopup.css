@@ -89,6 +89,8 @@ u {
     color: black;
 }
 
+/* CSS  for My Portfolio images starts */
+
 .portfolioiphone {
     width: 100%;
     height: 400px;
@@ -97,7 +99,6 @@ u {
     background-size: contain;
     /*border: 1px solid red;*/
 }
-
 .portfoliomacbook {
     width: 100%;
     height: 400px;
@@ -107,7 +108,12 @@ u {
     /*border: 1px solid red;*/
 }
 
-.rnmiphone{
+/* CSS  for My Portfolio images ends */
+
+
+/* CSS  for RNM images starts */
+
+.rnmiphone {
     width: 100%;
     height: 400px;
     background-image: url('https://cloud.githubusercontent.com/assets/18673805/18409129/2b6908f0-775e-11e6-9a94-4d016eeec44f.png');
@@ -115,8 +121,7 @@ u {
     background-size: contain;
     /*border: 1px solid red;*/
 }
-
-.rnmmacbook{
+.rnmmacbook {
     width: 100%;
     height: 400px;
     background-image: url('https://cloud.githubusercontent.com/assets/18673805/18409126/235424ba-775e-11e6-8252-21e732d5c0ae.png');
@@ -124,3 +129,35 @@ u {
     background-size: contain;
     /*border: 1px solid red;*/
 }
+
+/* CSS  for RNM images ends */
+
+
+/* CSS  for DWM images starts */
+
+.dwmiphone1 {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cloud.githubusercontent.com/assets/18673805/18409118/0b05580c-775e-11e6-8664-12a63ecdada2.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*border: 1px solid red;*/
+}
+.dwmiphone2 {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cloud.githubusercontent.com/assets/18673805/18409115/00d7072c-775e-11e6-8c85-d43dbca7fd65.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*border: 1px solid red;*/
+}
+.dwmmacbook {
+    width: 100%;
+    height: 400px;
+    background-image: url('https://cloud.githubusercontent.com/assets/18673805/18409113/f6271e0c-775d-11e6-8706-350e8eb5dee0.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*border: 1px solid red;*/
+}
+
+/* CSS  for DWM images ends */
