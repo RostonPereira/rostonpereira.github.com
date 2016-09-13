@@ -1863,7 +1863,7 @@
 							<input type="text" name="email" placeholder="Email" />
 						</div>
 						<div class="12u$">
-							<textarea name="message" placeholder="Message"></textarea>
+							<textarea name="message" placeholder="Message" id="texta"></textarea>
 						</div>
 						<div class="12u$">
 							<input type="submit" value="Send Message" />
@@ -1878,6 +1878,31 @@
 		</section>
 
 		</div>
+		
+		<script>
+			
+			$(document).ready(function() {
+
+				$('input[type="submit"]').attr('disabled', true);
+				$('input[type="text"],textarea').on('keyup', function() {
+
+					var textarea_value = $("#texta").val();
+					var text_value = $('input[name="email"]').val();
+
+					if (textarea_value != '' && text_value != '') {
+
+						$('input[type="submit"]').attr('disabled', false);
+
+					} else {
+
+						$('input[type="submit"]').attr('disabled', true);
+					}
+
+				});
+
+			});
+			
+		</script>
 		
 		<script>
 			
