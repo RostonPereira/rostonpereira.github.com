@@ -5,6 +5,12 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+.readmoreformobile {
+    float: right;
+    text-align: right;
+}
+
 .post-module {
     position: relative;
     z-index: 1;
